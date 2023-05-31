@@ -1,2 +1,2 @@
 Hangman JS Game
-.js linguist-detectable=true
+.js linguist-detectable=false
