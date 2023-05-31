@@ -1,0 +1,273 @@
+
+#line1{
+    width: 250px;
+    height: 10px;
+    background-color: black;
+    border-color: 10px solid black;
+    position: absolute;
+    top: 400px;
+    left: 548px;
+}
+
+#line2{
+    width: 10px;
+    height: 250px;
+    background-color: black;
+    border-color: 10px solid black;
+    position: absolute;
+    top: 155px;
+    left: 548px;
+}
+
+#line3{
+    width: 125px;
+    height: 10px;
+    background-color: black;
+    border-color: 10px solid black;
+    position: absolute;
+    top: 150px;
+    left: 548px;
+}
+
+
+#line4{
+    width: 10px;
+    height: 30px;
+    background-color: black;
+    border-color: 10px solid black;
+    position: absolute;
+    top: 150px;
+    left: 665px;
+}
+
+#stick1{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border: 10px solid black;
+    position: absolute;
+    top: 175px;
+    left: 637px;
+}
+
+  
+#stick2{
+    width: 10px;
+    height: 80px;
+    background-color: black;
+    border-color: 10px solid black;
+    position: absolute;
+    top: 240px;
+    left: 665px;
+} 
+
+#stick3{
+    width: 10px;
+    height: 70px;
+    background-color: black;
+    border-color: 10px solid black;
+    position: absolute;
+    top: 240px;
+    left: 642px;
+    rotate: 45deg;
+}
+
+#stick4{
+    width: 10px;
+    height: 70px;
+    background-color: black;
+    border-color: 10px solid black;
+    position: absolute;
+    top: 240px;
+    left: 684px;
+    rotate: 135deg;
+}
+
+#stick5{
+    width: 10px;
+    height: 70px;
+    background-color: black;
+    border-color: 10px solid black;
+    position: absolute;
+    top: 300px;
+    left: 642px;
+    rotate: 45deg;
+}
+
+#stick6{
+    width: 10px;
+    height: 70px;
+    background-color: black;
+    border-color: 10px solid black;
+    position: absolute;
+    top: 300px;
+    left: 684px;
+    rotate: 135deg;
+}
+
+
+#valuepress1{
+    position: absolute;
+    top: 350px;
+    height: auto;
+    width: auto;
+}
+
+#valuepress2{
+    position: absolute;
+    top: 300px;
+
+}
+#alphabet {
+    position: absolute;
+    bottom: 0px;
+    left: 130px;
+    text-align: center;
+
+}
+
+button {
+    height: 75px;
+    width: 37.5px;
+    font-size: 32px;
+    background-color: lightgray;
+
+}
+
+button:hover {
+    height: 75px;
+    width: 37.5px;
+    font-size: px;
+    background-color: darkgray;
+}
+
+
+#slot0 {
+    border-bottom: 10px solid black;
+    width: 50px;
+    height: 100px;
+    font-size: 100px;
+    text-align: center;
+    margin-left: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 300px;
+    left: 120px;
+}
+
+#slot1 {
+    border-bottom: 10px solid black;
+    width: 50px;
+    height: 100px;
+    font-size: 100px;
+    text-align: center;
+    margin-left: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 300px;
+    left: 240px;
+}
+
+#slot2 {
+    border-bottom: 10px solid black;
+    width: 50px;
+    height: 100px;
+    font-size: 100px;
+    text-align: center;
+    margin-left: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 300px;
+    left: 360px;
+}
+
+#slot3 {
+    border-bottom: 10px solid black;
+    width: 50px;
+    height: 100px;
+    font-size: 100px;
+    text-align: center;
+    margin-left: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 300px;
+    left: 480px;
+}
+
+#slot4 {
+    border-bottom: 10px solid black;
+    width: 50px;
+    height: 100px;
+    font-size: 100px;
+    text-align: center;
+    margin-left: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 300px;
+    left: 600px;
+}
+
+#slot5 {
+    border-bottom: 10px solid black;
+    width: 50px;
+    height: 100px;
+    font-size: 100px;
+    text-align: center;
+    margin-left: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 300px;
+    left: 720px;
+}
+
+#slot6 {
+    border-bottom: 10px solid black;
+    width: 50px;
+    height: 100px;
+    font-size: 100px;
+    text-align: center;
+    margin-left: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 300px;
+    left: 840px;
+}
+
+#slot7 {
+    border-bottom: 10px solid black;
+    width: 50px;
+    height: 100px;
+    font-size: 100px;
+    text-align: center;
+    margin-left: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 300px;
+    left: 960px;
+}
+
+#slot8 {
+    border-bottom: 10px solid black;
+    width: 50px;
+    height: 100px;
+    font-size: 100px;
+    text-align: center;
+    margin-left: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 300px;
+    left: 1080px;
+}
+
+#slot9 {
+    border-bottom: 10px solid black;
+    width: 50px;
+    height: 100px;
+    font-size: 100px;
+    text-align: center;
+    margin-left: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 300px;
+    left: 1200px;
+}
